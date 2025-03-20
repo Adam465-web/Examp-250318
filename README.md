@@ -19,5 +19,15 @@ Choose the language, edition, and architecture (32-bit or 64-bit) for Windows 10
 Select "USB flash drive" as the media to use.
 Choose your USB drive from the list and click "Next."
 The tool will download Windows 10 and create the bootable USB drive.
+Using Rufus (Alternative Method):
+Download Rufus, a free utility that creates bootable USB drives.
+Insert your USB flash drive into the computer.
+Open Rufus; it should automatically detect your USB drive.
+Under "Boot selection," click "SELECT" and choose the Windows 10 ISO file you downloaded.
+Ensure the "Partition scheme" is set to "GPT" (for UEFI systems) or "MBR" (for BIOS systems).
+Click "START" to begin creating the bootable USB drive.
+After completing these steps, your USB drive will be ready to install or repair Windows 10 on a compatible computer.
+Sources
+
 
 
