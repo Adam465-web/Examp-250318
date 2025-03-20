@@ -1,4 +1,4 @@
-##The systeminfo command in Windows provides detailed information about your computer's hardware and software configuration. To use it, follow these step
+## The systeminfo command in Windows provides detailed information about your computer's hardware and software configuration. To use it, follow these step
 Open Command Prompt:
 
 Press Win + R, type cmd, and press Enter.
