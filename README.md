@@ -27,3 +27,4 @@ Under "Boot selection," click "SELECT" and choose the Windows 10 ISO file you do
 Ensure the "Partition scheme" is set to "GPT" (for UEFI systems) or "MBR" (for BIOS systems).
 Click "START" to begin creating the bootable USB drive.
 After completing these steps, your USB drive will be ready to install or repair Windows 10 on a compatible computer.
+
